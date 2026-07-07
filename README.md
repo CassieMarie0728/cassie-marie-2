@@ -141,3 +141,14 @@ No fake peace.
 No pretending grief is polite.
 
 Just truth, survival, and a middle finger held high enough to block out the sun.
+
+
+---
+
+<p align="center">
+  <a href="https://www.copyright01.com/certificat/D6FF3E9C6A91A9E2C9222A2A4DC1A260">
+    <img src="https://www.copyright01.com/badge/D6FF3E9C6A91A9E2C9222A2A4DC1A260.svg" alt="Protected by Copyright01" />
+  </a>
+  <br>
+  <sub>Protected by <a href="https://www.copyright01.com">Copyright01</a> - Ref: CR-2026-40824 - Certified 2026-07-07</sub>
+</p>
