@@ -1,6 +1,7 @@
 ---
 title: CASSIE MARIE | AUTHOR
 timezone: America/Chicago
+theme: just-the-docs
 collections:
   posts:
     title: Posts
